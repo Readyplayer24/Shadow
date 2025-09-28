@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    private float speed = 6.0f;
+    private float speed = 100f;
     void Start()
     {
         
